@@ -1,16 +1,11 @@
-# music_app
+# Music App Player
 
-A new Flutter project.
+A Music App using just_audio package.
 
-## Getting Started
+## Screenshots
+### Home Page
+<img src="image1.png" width="400" height="800">
 
-This project is a starting point for a Flutter application.
+### Gameplay Page
+<img src="Simulator Screen Shot - Flutter - 2023-07-21 at 12.43.15.png" width="400" height="800">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
